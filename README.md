@@ -2,7 +2,7 @@
 
 > Note: Project developed during the bootcamp "Santander 2024 - Fundamentos de IA para Devs" provided by DIO and Santander.
 
-📕 Click here to access the ebook.
+📕 Click <a href="https://github.com/paulajustino/creating-an-ebook/blob/main/output/ebook.pdf" title="View PDF now"> here</a> to access the ebook.
 
 ## 💻 Technologies used in the project:
 
