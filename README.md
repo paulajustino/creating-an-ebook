@@ -24,7 +24,7 @@ ChatGPT：
 
 TessAI：
 
-|  Ação  | Prompt                                                                                 |
+|  Action  | Prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | Cover Image | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
 
