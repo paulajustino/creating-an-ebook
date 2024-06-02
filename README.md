@@ -37,4 +37,5 @@ TessAI：
 ## 📚 Materials:
 
 - Images used in `assets`
+- App used in `code`
 - Ebook generated in `output`
