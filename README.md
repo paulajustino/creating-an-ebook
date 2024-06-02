@@ -26,7 +26,7 @@ TessAI：
 
 |  Action  | Prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| Cover Image | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| Cover Image | Quero uma ilustração que representa um caminho. Quero que o simbolo do sistema operacional Android, que é um robozinho verde, esteja usando uma mochila e caminhando por esse caminho, como se fosse um explorador. Alem disso, quero que os elementos contenham cores e simbolos que representem inclusao, diversidade e acessibilidade. |
 
 ## ✨ Features:
 
